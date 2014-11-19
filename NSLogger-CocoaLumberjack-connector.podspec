@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.source         = { :git => 'https://github.com/saltmine/NSLogger-CocoaLumberjack-connector.git',
                        :tag => "#{s.version}" }
   s.source_files   = 'DDNSLoggerLogger'
-  s.dependency     = 'NSLogger'
-  s.dependency     = 'CocoaLumberjack'
   s.requires_arc   = false
+  s.dependency 'NSLogger'
+  s.dependency 'CocoaLumberjack'
 end
