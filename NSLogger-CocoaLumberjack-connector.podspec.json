@@ -3,7 +3,7 @@
   "version": "1.3.1",
   "license": "BSD",
   "summary": "Bridges NSLogger and CocoaLumberjack.",
-  "homepage": "https://github.com/saltime/NSLogger-CocoaLumberjack-connector",
+  "homepage": "https://github.com/steipete/NSLogger-CocoaLumberjack-connector",
   "authors": {
     "Peter Steinberger": "steipete@gmail.com"
   },
